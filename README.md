@@ -32,3 +32,12 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 </details>
 
+## Bold
+
+Format of `**bold**` text. You have to enlist the part you want to make bold within `**` and `**` and then enclose it within `**` and `**`.
+
+Example:
+
+```markdown
+This is **bold string** text.
+```
