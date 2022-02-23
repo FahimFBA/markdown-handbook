@@ -41,3 +41,12 @@ Example:
 ```markdown
 This is **bold string** text.
 ```
+
+## Italic
+Format of **italic** text. You have to enlist the part yhou want to make italic within `*` and `*`.
+
+Example:
+
+```markdown
+This is a *italic* text.
+```
