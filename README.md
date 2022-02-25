@@ -36,7 +36,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ## Bold
 
-Format of `**bold**` text. You have to enlist the part you want to make bold within `**` and `**` and then enclose it within `**` and `**`.
+Format of `**bold**` text. You have to enlist the part you want to make bold within `**` and `**`.
 
 Example:
 
@@ -45,7 +45,7 @@ This is **bold string** text.
 ```
 
 ## Italic
-Format of **italic** text. You have to enlist the part yhou want to make italic within `*` and `*`.
+Format of **italic** text. You have to enlist the part where you want to make italic within `*` and `*`.
 
 Example:
 
