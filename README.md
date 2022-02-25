@@ -50,3 +50,12 @@ Example:
 ```markdown
 This is a *italic* text.
 ```
+
+## Blockquote
+According to [Wikipedia](https://en.wikipedia.org/wiki/Block_quotation)
+> A block quotation (also known as a long quotation or extract) is a quotation in a written document that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface or smaller size font.
+
+The below statement is in a blockquote
+
+> This is a blockquote.
+
