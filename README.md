@@ -11,12 +11,12 @@ Use `#` to create a heading. Each `#` increases the heading level.
 Example:
 
 ```
-# Header1
-## Header2
-### Header3
-#### Header4
-##### Header5
-###### Header6
+# This is Header 1
+## This is Header 2
+### This is Header 3
+#### This is Header 4
+##### This is Header 5
+###### This is Header 6
 ```
 
 <details>
