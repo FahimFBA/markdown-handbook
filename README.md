@@ -16,7 +16,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 ```
 
 <details>
-<summary>Click here for the example</summary>
+<summary>Click here for the output of the above markdown headings</summary>
 
 <br>
 
