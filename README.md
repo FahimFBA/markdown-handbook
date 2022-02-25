@@ -107,5 +107,52 @@ It will provide the following output:
 1. Item 2
 
 
+## Unordered List
+
+You can use `-` or `*` or `+` to create an unordered list. All of them will provide the same output.
+
+Example:
+
+With `-`
+
+```
+- First Item
+- Second Item
+- Third Item
+```
+
+Output of the above list:
+
+- First Item
+- Second Item
+- Third Item
+
+With `*`
+
+```
+* First Item
+* Second Item
+* Third Item
+```
+
+Output of the above list:
+
+* First Item
+* Second Item
+* Third Item
+
+With `+`
+
+```
++ First Item
++ Second Item
++ Third Item
+```
+
+Output of the above list:
+
++ First Item
++ Second Item
++ Third Item
 
 
