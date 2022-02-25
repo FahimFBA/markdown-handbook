@@ -64,15 +64,15 @@ The below statement is in a blockquote
 You can use the following format to create an ordered list:
 
 ```    
-    1. Item 1
-    2. Item 2
-    3. Item 3
+1. Item 1
+2. Item 2
+3. Item 3
 ```
 Output in Markdown:
 
-    1. Item 1
-    2. Item 2
-    3. Item 3
+1. Item 1
+2. Item 2
+3. Item 3
 
 If you want to shuffle the items but also want markdown to assign the correct sequence by default, then you can use `1.` to all of them.
 
