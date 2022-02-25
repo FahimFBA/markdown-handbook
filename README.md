@@ -59,3 +59,51 @@ The below statement is in a blockquote
 
 > This is a blockquote.
 
+## Ordered List
+
+You can use the following format to create an ordered list:
+
+```    
+    1. Item 1
+    2. Item 2
+    3. Item 3
+```
+Output in Markdown:
+
+    1. Item 1
+    2. Item 2
+    3. Item 3
+
+If you want to shuffle the items but also want markdown to assign the correct sequence by default, then you can use `1.` to all of them.
+
+Example:
+
+```
+1. Item 1
+1. Item 2
+1. Item 3
+```
+
+It will provide the following output:
+
+1. Item 1
+1. Item 2
+1. Item 3
+
+Now, if you change any item, but want the markdown itself to assign the correct order, then it would work flawlessly! Now, I will replace the `Item 2` with `Item 3`, but the order would get corrected automatically.
+
+```
+1. Item 1
+1. Item 3
+1. Item 2
+```
+
+It will provide the following output:
+
+1. Item 1
+1. Item 3
+1. Item 2
+
+
+
+
