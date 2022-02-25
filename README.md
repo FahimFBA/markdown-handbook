@@ -6,6 +6,10 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ## Heading
 
+Use `#` to create a heading. Each `#` increases the heading level.
+
+Example:
+
 ```
 # Header1
 ## Header2
